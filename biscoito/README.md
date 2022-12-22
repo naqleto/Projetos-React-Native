@@ -5,14 +5,14 @@
 
  <p>
 <video controls>
-<source src="assets/Gravar2.mp4">
+<source src="assets/BiscoitoDaSorte3.mp4">
 </p>
 <br>
 
 ## Sobre
 
-<h3>Projeto <em> Biscoito da sorte</em> é um App onde você clica no botão <em>Quebrar Biscoito</em>, para ler a mensagem.<br>
-Criado durante uma aula do Professor Matheus. Com o intuito de colocarmos em prática as tecnologias aprendidas neste modulo do Curso.</h3>
+Projeto <em> Biscoito da sorte</em> é um App onde você clica no botão <em>Quebrar Biscoito</em>, para ler a mensagem.<br>
+Criado durante uma aula do Professor Matheus. Com o intuito de colocarmos em prática as tecnologias aprendidas neste modulo do Curso.
 
 ## Tecnologias
 
